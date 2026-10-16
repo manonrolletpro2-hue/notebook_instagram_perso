@@ -1,0 +1,6 @@
+# Bibliothèques nécessaires au notebook et à l'application Streamlit
+pandas
+numpy
+matplotlib
+streamlit
+jupyter

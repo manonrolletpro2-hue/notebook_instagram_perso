@@ -1,0 +1,8 @@
+# Données brutes : ne jamais publier les extraits CSV / Excel
+data/
+
+# Fichiers temporaires
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+~$*
